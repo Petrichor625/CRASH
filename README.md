@@ -42,12 +42,12 @@ Finally, the multi-layer fusion iteratively fuses and mulls over the output from
 
 ## Install
 
-The model install in Ubuntu 20.04, cuda11.8
+The model installs in Ubuntu 20.04, cuda11.8
 
-**1. Clone this repository**: clone our model use the following code 
+**1. Clone this repository**: clone our model uses the following code 
 
 ```shell
-git clone https://github.com/xxxxxxxxxxxx
+git clone https://github.com/xxxxxxxxxxxx (Consistent with conference's review anonymity, the project page link will be provided in the final paper, furthering our commitment to reproducibility.)
 cd CRASH
 ```
 
