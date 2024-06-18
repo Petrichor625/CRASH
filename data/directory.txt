@@ -1,3 +1,0 @@
-crash/*
-dad/*
-a3d/*
